@@ -1,0 +1,6 @@
+lib/Shipping/CanadaPost.pm
+Makefile.PL
+README
+t/Shipping-CanadaPost.t
+Changes
+MANIFEST
